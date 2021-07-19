@@ -1,0 +1,12 @@
+C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformSimulator\bin\Debug\netstandard2.0\UsingMultiplePlataformSimulator.deps.json
+C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformSimulator\bin\Debug\netstandard2.0\UsingMultiplePlataformSimulator.dll
+C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformSimulator\bin\Debug\netstandard2.0\UsingMultiplePlataformSimulator.pdb
+C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformSimulator\bin\Debug\netstandard2.0\UsingMultiplePlataformStorage.dll
+C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformSimulator\bin\Debug\netstandard2.0\UsingMultiplePlataformStorage.pdb
+C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformSimulator\obj\Debug\netstandard2.0\UsingMultiplePlataformSimulator.csproj.AssemblyReference.cache
+C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformSimulator\obj\Debug\netstandard2.0\UsingMultiplePlataformSimulator.AssemblyInfoInputs.cache
+C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformSimulator\obj\Debug\netstandard2.0\UsingMultiplePlataformSimulator.AssemblyInfo.cs
+C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformSimulator\obj\Debug\netstandard2.0\UsingMultiplePlataformSimulator.csproj.CoreCompileInputs.cache
+C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformSimulator\obj\Debug\netstandard2.0\UsingMultiplePlataformSimulator.csproj.CopyComplete
+C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformSimulator\obj\Debug\netstandard2.0\UsingMultiplePlataformSimulator.dll
+C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformSimulator\obj\Debug\netstandard2.0\UsingMultiplePlataformSimulator.pdb

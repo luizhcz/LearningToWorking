@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wZdYFZb9JHscKB37/uToSIjpkf9r9mpmuPn2tLci2ebpkXY2h5xexQGGkivoOlhtOWiUrq8TDUMzk5YSt3FRVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\UsingMultiplePlataformWPF\\UsingMultiplePlataformWPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lcerqueira\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

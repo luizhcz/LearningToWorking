@@ -1,0 +1,12 @@
+C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformSimulator\bin\Debug\net461\UsingMultiplePlataformSimulator.dll
+C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformSimulator\bin\Debug\net461\UsingMultiplePlataformSimulator.pdb
+C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformSimulator\bin\Debug\net461\Newtonsoft.Json.dll
+C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformSimulator\bin\Debug\net461\UsingMultiplePlataformStorage.dll
+C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformSimulator\bin\Debug\net461\UsingMultiplePlataformStorage.pdb
+C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformSimulator\obj\Debug\net461\UsingMultiplePlataformSimulator.csproj.AssemblyReference.cache
+C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformSimulator\obj\Debug\net461\UsingMultiplePlataformSimulator.AssemblyInfoInputs.cache
+C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformSimulator\obj\Debug\net461\UsingMultiplePlataformSimulator.AssemblyInfo.cs
+C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformSimulator\obj\Debug\net461\UsingMultiplePlataformSimulator.csproj.CoreCompileInputs.cache
+C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformSimulator\obj\Debug\net461\UsingMultiplePlataformSimulator.csproj.CopyComplete
+C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformSimulator\obj\Debug\net461\UsingMultiplePlataformSimulator.dll
+C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformSimulator\obj\Debug\net461\UsingMultiplePlataformSimulator.pdb

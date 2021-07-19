@@ -1,0 +1,4 @@
+C:\Users\lcerqueira\source\repos\LearningToWorking\WiredBrainCoffee.Console.Migration\obj\Debug\netcoreapp3.1\WiredBrainCoffee.Console.Migration.csproj.AssemblyReference.cache
+C:\Users\lcerqueira\source\repos\LearningToWorking\WiredBrainCoffee.Console.Migration\obj\Debug\netcoreapp3.1\WiredBrainCoffee.Console.Migration.AssemblyInfoInputs.cache
+C:\Users\lcerqueira\source\repos\LearningToWorking\WiredBrainCoffee.Console.Migration\obj\Debug\netcoreapp3.1\WiredBrainCoffee.Console.Migration.AssemblyInfo.cs
+C:\Users\lcerqueira\source\repos\LearningToWorking\WiredBrainCoffee.Console.Migration\obj\Debug\netcoreapp3.1\WiredBrainCoffee.Console.Migration.csproj.CoreCompileInputs.cache

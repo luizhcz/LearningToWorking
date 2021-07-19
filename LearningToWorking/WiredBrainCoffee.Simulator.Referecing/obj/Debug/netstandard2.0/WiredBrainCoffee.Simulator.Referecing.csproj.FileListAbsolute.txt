@@ -1,0 +1,15 @@
+C:\Users\lcerqueira\source\repos\LearningToWorking\WiredBrainCoffee.Simulator.Referecing\bin\Debug\netstandard2.0\WiredBrainCoffee.Simulator.Referecing.deps.json
+C:\Users\lcerqueira\source\repos\LearningToWorking\WiredBrainCoffee.Simulator.Referecing\bin\Debug\netstandard2.0\WiredBrainCoffee.Simulator.Referecing.dll
+C:\Users\lcerqueira\source\repos\LearningToWorking\WiredBrainCoffee.Simulator.Referecing\bin\Debug\netstandard2.0\WiredBrainCoffee.Simulator.Referecing.pdb
+C:\Users\lcerqueira\source\repos\LearningToWorking\WiredBrainCoffee.Simulator.Referecing\obj\Debug\netstandard2.0\WiredBrainCoffee.Simulator.Referecing.csproj.AssemblyReference.cache
+C:\Users\lcerqueira\source\repos\LearningToWorking\WiredBrainCoffee.Simulator.Referecing\obj\Debug\netstandard2.0\WiredBrainCoffee.Simulator.Referecing.AssemblyInfoInputs.cache
+C:\Users\lcerqueira\source\repos\LearningToWorking\WiredBrainCoffee.Simulator.Referecing\obj\Debug\netstandard2.0\WiredBrainCoffee.Simulator.Referecing.AssemblyInfo.cs
+C:\Users\lcerqueira\source\repos\LearningToWorking\WiredBrainCoffee.Simulator.Referecing\obj\Debug\netstandard2.0\WiredBrainCoffee.Simulator.Referecing.csproj.CoreCompileInputs.cache
+C:\Users\lcerqueira\source\repos\LearningToWorking\WiredBrainCoffee.Simulator.Referecing\obj\Debug\netstandard2.0\WiredBrainCoffee.Simulator.Referecing.dll
+C:\Users\lcerqueira\source\repos\LearningToWorking\WiredBrainCoffee.Simulator.Referecing\obj\Debug\netstandard2.0\WiredBrainCoffee.Simulator.Referecing.pdb
+C:\Users\lcerqueira\source\repos\LearningToWorking\WiredBrainCoffee.Simulator.Referecing\bin\Debug\netstandard2.0\WiredBrainCoffee.Storage.Referencing.dll
+C:\Users\lcerqueira\source\repos\LearningToWorking\WiredBrainCoffee.Simulator.Referecing\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+C:\Users\lcerqueira\source\repos\LearningToWorking\WiredBrainCoffee.Simulator.Referecing\bin\Debug\netstandard2.0\WiredBrainCoffee.Storage.Referencing.pdb
+C:\Users\lcerqueira\source\repos\LearningToWorking\WiredBrainCoffee.Simulator.Referecing\bin\Debug\netstandard2.0\WiredBrainCoffee.Storage.Referencing.dll.config
+C:\Users\lcerqueira\source\repos\LearningToWorking\WiredBrainCoffee.Simulator.Referecing\bin\Debug\netstandard2.0\Newtonsoft.Json.xml
+C:\Users\lcerqueira\source\repos\LearningToWorking\WiredBrainCoffee.Simulator.Referecing\obj\Debug\netstandard2.0\WiredBrainCoffee.Simulator.Referecing.csproj.CopyComplete

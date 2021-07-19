@@ -1,0 +1,8 @@
+C:\Users\lcerqueira\source\repos\LearningToWorking\MigrationPackageSimulator\bin\Debug\netstandard2.0\MigrationPackageSimulator.deps.json
+C:\Users\lcerqueira\source\repos\LearningToWorking\MigrationPackageSimulator\bin\Debug\netstandard2.0\MigrationPackageSimulator.dll
+C:\Users\lcerqueira\source\repos\LearningToWorking\MigrationPackageSimulator\bin\Debug\netstandard2.0\MigrationPackageSimulator.pdb
+C:\Users\lcerqueira\source\repos\LearningToWorking\MigrationPackageSimulator\obj\Debug\netstandard2.0\MigrationPackageSimulator.AssemblyInfoInputs.cache
+C:\Users\lcerqueira\source\repos\LearningToWorking\MigrationPackageSimulator\obj\Debug\netstandard2.0\MigrationPackageSimulator.AssemblyInfo.cs
+C:\Users\lcerqueira\source\repos\LearningToWorking\MigrationPackageSimulator\obj\Debug\netstandard2.0\MigrationPackageSimulator.csproj.CoreCompileInputs.cache
+C:\Users\lcerqueira\source\repos\LearningToWorking\MigrationPackageSimulator\obj\Debug\netstandard2.0\MigrationPackageSimulator.dll
+C:\Users\lcerqueira\source\repos\LearningToWorking\MigrationPackageSimulator\obj\Debug\netstandard2.0\MigrationPackageSimulator.pdb

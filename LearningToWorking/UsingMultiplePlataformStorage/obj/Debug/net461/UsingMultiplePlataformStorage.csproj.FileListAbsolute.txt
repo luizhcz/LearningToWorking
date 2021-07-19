@@ -1,0 +1,10 @@
+C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformStorage\bin\Debug\net461\UsingMultiplePlataformStorage.dll
+C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformStorage\bin\Debug\net461\UsingMultiplePlataformStorage.pdb
+C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformStorage\bin\Debug\net461\Newtonsoft.Json.dll
+C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformStorage\obj\Debug\net461\UsingMultiplePlataformStorage.csproj.AssemblyReference.cache
+C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformStorage\obj\Debug\net461\UsingMultiplePlataformStorage.AssemblyInfoInputs.cache
+C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformStorage\obj\Debug\net461\UsingMultiplePlataformStorage.AssemblyInfo.cs
+C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformStorage\obj\Debug\net461\UsingMultiplePlataformStorage.csproj.CoreCompileInputs.cache
+C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformStorage\obj\Debug\net461\UsingMultiplePlataformStorage.csproj.CopyComplete
+C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformStorage\obj\Debug\net461\UsingMultiplePlataformStorage.dll
+C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformStorage\obj\Debug\net461\UsingMultiplePlataformStorage.pdb

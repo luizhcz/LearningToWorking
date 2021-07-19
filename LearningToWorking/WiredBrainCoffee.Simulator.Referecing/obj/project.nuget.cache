@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Jqo+KcO5xb9ENSlxr2urlWho0U8jsKg4KoPd0zpzJZJN24SNkEZxfGwRRyh6VkrwqHhFmN1mFl6SIRQUMeHhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\WiredBrainCoffee.Simulator.Referecing\\WiredBrainCoffee.Simulator.Referecing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lcerqueira\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lcerqueira\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

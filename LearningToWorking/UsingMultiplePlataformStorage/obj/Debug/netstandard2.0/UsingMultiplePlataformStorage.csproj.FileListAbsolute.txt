@@ -1,0 +1,9 @@
+C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformStorage\obj\Debug\netstandard2.0\UsingMultiplePlataformStorage.csproj.AssemblyReference.cache
+C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformStorage\obj\Debug\netstandard2.0\UsingMultiplePlataformStorage.AssemblyInfoInputs.cache
+C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformStorage\obj\Debug\netstandard2.0\UsingMultiplePlataformStorage.AssemblyInfo.cs
+C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformStorage\obj\Debug\netstandard2.0\UsingMultiplePlataformStorage.csproj.CoreCompileInputs.cache
+C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformStorage\bin\Debug\netstandard2.0\UsingMultiplePlataformStorage.deps.json
+C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformStorage\bin\Debug\netstandard2.0\UsingMultiplePlataformStorage.dll
+C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformStorage\bin\Debug\netstandard2.0\UsingMultiplePlataformStorage.pdb
+C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformStorage\obj\Debug\netstandard2.0\UsingMultiplePlataformStorage.dll
+C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformStorage\obj\Debug\netstandard2.0\UsingMultiplePlataformStorage.pdb

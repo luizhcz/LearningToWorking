@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KSTi7Zh+kwSvreSlrDSi/eVJYyg48CeHiwo2jVMRb2o8mKHiKygSIWcIgpEtvMwORffr7eAdwcXA2oF03rY8pg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\MigrationPackageStorage\\MigrationPackageStorage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lcerqueira\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lcerqueira\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\lcerqueira\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

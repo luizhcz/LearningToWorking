@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\WiredBrainCoffee.ConsoleApp\\WiredBrainCoffee.ConsoleApp.csproj": {}
+    "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\WiredBrainCoffee.ConsoleApp\\WiredBrainCoffee.ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\WiredBrainCoffee.ConsoleApp\\WiredBrainCoffee.ConsoleApp.csproj": {
+    "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\WiredBrainCoffee.ConsoleApp\\WiredBrainCoffee.ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\WiredBrainCoffee.ConsoleApp\\WiredBrainCoffee.ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\WiredBrainCoffee.ConsoleApp\\WiredBrainCoffee.ConsoleApp.csproj",
         "projectName": "WiredBrainCoffee.ConsoleApp",
-        "projectPath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\WiredBrainCoffee.ConsoleApp\\WiredBrainCoffee.ConsoleApp.csproj",
+        "projectPath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\WiredBrainCoffee.ConsoleApp\\WiredBrainCoffee.ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\lcerqueira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\WiredBrainCoffee.ConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\WiredBrainCoffee.ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lcerqueira\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\WiredBrainCoffee.Simulators\\WiredBrainCoffee.Simulators.csproj": {
-                "projectPath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\WiredBrainCoffee.Simulators\\WiredBrainCoffee.Simulators.csproj"
+              "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\WiredBrainCoffee.Simulators\\WiredBrainCoffee.Simulators.csproj": {
+                "projectPath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\WiredBrainCoffee.Simulators\\WiredBrainCoffee.Simulators.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\WiredBrainCoffee.Simulators\\WiredBrainCoffee.Simulators.csproj": {
+    "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\WiredBrainCoffee.Simulators\\WiredBrainCoffee.Simulators.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\WiredBrainCoffee.Simulators\\WiredBrainCoffee.Simulators.csproj",
+        "projectUniqueName": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\WiredBrainCoffee.Simulators\\WiredBrainCoffee.Simulators.csproj",
         "projectName": "WiredBrainCoffee.Simulators",
-        "projectPath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\WiredBrainCoffee.Simulators\\WiredBrainCoffee.Simulators.csproj",
+        "projectPath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\WiredBrainCoffee.Simulators\\WiredBrainCoffee.Simulators.csproj",
         "packagesPath": "C:\\Users\\lcerqueira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\WiredBrainCoffee.Simulators\\obj\\",
+        "outputPath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\WiredBrainCoffee.Simulators\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lcerqueira\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -200,11 +200,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\UsingMultiplePlataformWPF\\UsingMultiplePlataformWPF.csproj",
+      "projectUniqueName": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\UsingMultiplePlataformWPF\\UsingMultiplePlataformWPF.csproj",
       "projectName": "UsingMultiplePlataformWPF",
-      "projectPath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\UsingMultiplePlataformWPF\\UsingMultiplePlataformWPF.csproj",
+      "projectPath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\UsingMultiplePlataformWPF\\UsingMultiplePlataformWPF.csproj",
       "packagesPath": "C:\\Users\\lcerqueira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\UsingMultiplePlataformWPF\\obj\\",
+      "outputPath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\UsingMultiplePlataformWPF\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -221,8 +221,8 @@
       "frameworks": {
         "net461": {
           "projectReferences": {
-            "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\UsingMultiplePlataformSimulator\\UsingMultiplePlataformSimulator.csproj": {
-              "projectPath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\UsingMultiplePlataformSimulator\\UsingMultiplePlataformSimulator.csproj"
+            "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\UsingMultiplePlataformSimulator\\UsingMultiplePlataformSimulator.csproj": {
+              "projectPath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\UsingMultiplePlataformSimulator\\UsingMultiplePlataformSimulator.csproj"
             }
           }
         }

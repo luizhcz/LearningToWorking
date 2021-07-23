@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xQm2ktW9rGkyRJG/UWf+wiDM8WtX0yOuNbdXRoEQbK2pYSuuUdgH+nGuhiSRj4uivEWCmbPJmau4Fp/Evn4sdQ==",
+  "dgSpecHash": "Iv7vgV8FV+uzY8WzCyTHtYCX0Svuhhv8s6otCM6SF1vHt2iXL3DPkHDNLXDXRmthurBsv3SdQa8WYMY0S8IncA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\WiredBrainCoffee.Simulators\\WiredBrainCoffee.Simulators.csproj",
+  "projectFilePath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\WiredBrainCoffee.Simulators\\WiredBrainCoffee.Simulators.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lcerqueira\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\lcerqueira\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\WiredBrainCoffee.Simulator.Referecing\\WiredBrainCoffee.Simulator.Referecing.csproj": {}
+    "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\WiredBrainCoffee.Simulator.Referecing\\WiredBrainCoffee.Simulator.Referecing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\WiredBrainCoffee.Simulator.Referecing\\WiredBrainCoffee.Simulator.Referecing.csproj": {
+    "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\WiredBrainCoffee.Simulator.Referecing\\WiredBrainCoffee.Simulator.Referecing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\WiredBrainCoffee.Simulator.Referecing\\WiredBrainCoffee.Simulator.Referecing.csproj",
+        "projectUniqueName": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\WiredBrainCoffee.Simulator.Referecing\\WiredBrainCoffee.Simulator.Referecing.csproj",
         "projectName": "WiredBrainCoffee.Simulator.Referecing",
-        "projectPath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\WiredBrainCoffee.Simulator.Referecing\\WiredBrainCoffee.Simulator.Referecing.csproj",
+        "projectPath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\WiredBrainCoffee.Simulator.Referecing\\WiredBrainCoffee.Simulator.Referecing.csproj",
         "packagesPath": "C:\\Users\\lcerqueira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\WiredBrainCoffee.Simulator.Referecing\\obj\\",
+        "outputPath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\WiredBrainCoffee.Simulator.Referecing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lcerqueira\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\WiredBrainCoffee.Storage.Referencing\\WiredBrainCoffee.Storage.Referencing.csproj": {
-                "projectPath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\WiredBrainCoffee.Storage.Referencing\\WiredBrainCoffee.Storage.Referencing.csproj"
+              "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\WiredBrainCoffee.Storage.Referencing\\WiredBrainCoffee.Storage.Referencing.csproj": {
+                "projectPath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\WiredBrainCoffee.Storage.Referencing\\WiredBrainCoffee.Storage.Referencing.csproj"
               }
             }
           }
@@ -65,11 +65,11 @@
         }
       }
     },
-    "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\WiredBrainCoffee.Storage.Referencing\\WiredBrainCoffee.Storage.Referencing.csproj": {
+    "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\WiredBrainCoffee.Storage.Referencing\\WiredBrainCoffee.Storage.Referencing.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\WiredBrainCoffee.Storage.Referencing\\WiredBrainCoffee.Storage.Referencing.csproj",
+        "projectUniqueName": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\WiredBrainCoffee.Storage.Referencing\\WiredBrainCoffee.Storage.Referencing.csproj",
         "projectName": "WiredBrainCoffee.Storage.Referencing",
-        "projectPath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\WiredBrainCoffee.Storage.Referencing\\WiredBrainCoffee.Storage.Referencing.csproj"
+        "projectPath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\WiredBrainCoffee.Storage.Referencing\\WiredBrainCoffee.Storage.Referencing.csproj"
       },
       "frameworks": {
         "net461": {}

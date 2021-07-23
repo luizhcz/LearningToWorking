@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "enBQ7FiKerFL7rWwg9BQg58TydAP2C/Mj68kFT4doomZ3QPZ+2P+f4K/TyEwN9E3kXf6q/8ph/Kn8RBj0CCohQ==",
+  "dgSpecHash": "1mrUdMpHtMM8u2jG/6nowGolBAv8jHEGYtBR6vjjOfyCJ2olp0FbYlHHOmEBm4oJFuWC2ucFsmOnywb9oTABdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\MigrationPackageSimulator\\MigrationPackageSimulator.csproj",
+  "projectFilePath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\MigrationPackageSimulator\\MigrationPackageSimulator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lcerqueira\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\lcerqueira\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

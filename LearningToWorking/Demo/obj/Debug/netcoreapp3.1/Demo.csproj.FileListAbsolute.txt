@@ -7,3 +7,12 @@ C:\Users\lcerqueira\source\repos\LearningToWorking\Demo\obj\Debug\netcoreapp3.1\
 C:\Users\lcerqueira\source\repos\LearningToWorking\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CoreCompileInputs.cache
 C:\Users\lcerqueira\source\repos\LearningToWorking\Demo\obj\Debug\netcoreapp3.1\Demo.dll
 C:\Users\lcerqueira\source\repos\LearningToWorking\Demo\obj\Debug\netcoreapp3.1\Demo.pdb
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\Demo\bin\Debug\netcoreapp3.1\Demo.deps.json
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\Demo\bin\Debug\netcoreapp3.1\Demo.dll
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\Demo\bin\Debug\netcoreapp3.1\Demo.pdb
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.AssemblyReference.cache
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfoInputs.cache
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfo.cs
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CoreCompileInputs.cache
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\Demo\obj\Debug\netcoreapp3.1\Demo.dll
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\Demo\obj\Debug\netcoreapp3.1\Demo.pdb

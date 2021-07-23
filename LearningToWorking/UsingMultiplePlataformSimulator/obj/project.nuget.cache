@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C8S+dH4+SZ+/2BfgfTFervOdSwtIAbFcDaQYvEpR4Tqz+ti0hTq1g+wqk1cZlLwwgxi0JPw1C0cxNgNfjkENiw==",
+  "dgSpecHash": "Mb8J9jqh4UKmASStiDzX/X+Y11YVOIVwfS0laB1CGpl48JyWrm4pczwhNjQm91pjZg7sm7/fM3WDxoqGRlCiTA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\UsingMultiplePlataformSimulator\\UsingMultiplePlataformSimulator.csproj",
+  "projectFilePath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\UsingMultiplePlataformSimulator\\UsingMultiplePlataformSimulator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lcerqueira\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\lcerqueira\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

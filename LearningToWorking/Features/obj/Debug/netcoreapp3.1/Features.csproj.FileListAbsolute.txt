@@ -1,0 +1,15 @@
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\Features\bin\Debug\netcoreapp3.1\Features.exe
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\Features\bin\Debug\netcoreapp3.1\Features.deps.json
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\Features\bin\Debug\netcoreapp3.1\Features.runtimeconfig.json
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\Features\bin\Debug\netcoreapp3.1\Features.runtimeconfig.dev.json
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\Features\bin\Debug\netcoreapp3.1\Features.dll
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\Features\bin\Debug\netcoreapp3.1\Features.pdb
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\Features\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\Features\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\Features\obj\Debug\netcoreapp3.1\Features.AssemblyInfoInputs.cache
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\Features\obj\Debug\netcoreapp3.1\Features.AssemblyInfo.cs
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\Features\obj\Debug\netcoreapp3.1\Features.csproj.CoreCompileInputs.cache
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\Features\obj\Debug\netcoreapp3.1\Features.csproj.CopyComplete
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\Features\obj\Debug\netcoreapp3.1\Features.dll
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\Features\obj\Debug\netcoreapp3.1\Features.pdb
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\Features\obj\Debug\netcoreapp3.1\Features.genruntimeconfig.cache

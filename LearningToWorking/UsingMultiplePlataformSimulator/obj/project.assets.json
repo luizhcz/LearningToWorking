@@ -267,11 +267,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\UsingMultiplePlataformSimulator\\UsingMultiplePlataformSimulator.csproj",
+      "projectUniqueName": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\UsingMultiplePlataformSimulator\\UsingMultiplePlataformSimulator.csproj",
       "projectName": "UsingMultiplePlataformSimulator",
-      "projectPath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\UsingMultiplePlataformSimulator\\UsingMultiplePlataformSimulator.csproj",
+      "projectPath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\UsingMultiplePlataformSimulator\\UsingMultiplePlataformSimulator.csproj",
       "packagesPath": "C:\\Users\\lcerqueira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\UsingMultiplePlataformSimulator\\obj\\",
+      "outputPath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\UsingMultiplePlataformSimulator\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [
@@ -290,16 +290,16 @@
         "net461": {
           "targetAlias": "net461",
           "projectReferences": {
-            "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\UsingMultiplePlataformStorage\\UsingMultiplePlataformStorage.csproj": {
-              "projectPath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\UsingMultiplePlataformStorage\\UsingMultiplePlataformStorage.csproj"
+            "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\UsingMultiplePlataformStorage\\UsingMultiplePlataformStorage.csproj": {
+              "projectPath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\UsingMultiplePlataformStorage\\UsingMultiplePlataformStorage.csproj"
             }
           }
         },
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\UsingMultiplePlataformStorage\\UsingMultiplePlataformStorage.csproj": {
-              "projectPath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\UsingMultiplePlataformStorage\\UsingMultiplePlataformStorage.csproj"
+            "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\UsingMultiplePlataformStorage\\UsingMultiplePlataformStorage.csproj": {
+              "projectPath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\UsingMultiplePlataformStorage\\UsingMultiplePlataformStorage.csproj"
             }
           }
         }

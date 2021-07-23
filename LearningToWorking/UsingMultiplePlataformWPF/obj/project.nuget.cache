@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wZdYFZb9JHscKB37/uToSIjpkf9r9mpmuPn2tLci2ebpkXY2h5xexQGGkivoOlhtOWiUrq8TDUMzk5YSt3FRVA==",
+  "dgSpecHash": "gMwMxXwJi6ME8+xo72tDMOU5wMm42NjWxzwc7lSqwxoQ/wR8bOyvTUDHk+rtg7hFuBx1WTB76mFCMZFsrfxb4w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\UsingMultiplePlataformWPF\\UsingMultiplePlataformWPF.csproj",
+  "projectFilePath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\UsingMultiplePlataformWPF\\UsingMultiplePlataformWPF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lcerqueira\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],

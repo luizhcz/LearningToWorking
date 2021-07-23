@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\Demo.Tests\\Demo.Tests.csproj": {}
+    "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\Demo.Tests\\Demo.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\Demo.Tests\\Demo.Tests.csproj": {
+    "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\Demo.Tests\\Demo.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\Demo.Tests\\Demo.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\Demo.Tests\\Demo.Tests.csproj",
         "projectName": "Demo.Tests",
-        "projectPath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\Demo.Tests\\Demo.Tests.csproj",
+        "projectPath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\Demo.Tests\\Demo.Tests.csproj",
         "packagesPath": "C:\\Users\\lcerqueira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\Demo.Tests\\obj\\",
+        "outputPath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\Demo.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lcerqueira\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\Demo\\Demo.csproj": {
-                "projectPath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\Demo\\Demo.csproj"
+              "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\Demo\\Demo.csproj": {
+                "projectPath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\Demo\\Demo.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\Demo\\Demo.csproj": {
+    "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\Demo\\Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\Demo\\Demo.csproj",
+        "projectUniqueName": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\Demo\\Demo.csproj",
         "projectName": "Demo",
-        "projectPath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\Demo\\Demo.csproj",
+        "projectPath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\Demo\\Demo.csproj",
         "packagesPath": "C:\\Users\\lcerqueira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\Demo\\obj\\",
+        "outputPath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\Demo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lcerqueira\\AppData\\Roaming\\NuGet\\NuGet.Config",

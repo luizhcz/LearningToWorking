@@ -89,11 +89,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\MigrationPackage\\MigrationPackage.csproj",
+      "projectUniqueName": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\MigrationPackage\\MigrationPackage.csproj",
       "projectName": "MigrationPackage",
-      "projectPath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\MigrationPackage\\MigrationPackage.csproj",
+      "projectPath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\MigrationPackage\\MigrationPackage.csproj",
       "packagesPath": "C:\\Users\\lcerqueira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\MigrationPackage\\obj\\",
+      "outputPath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\MigrationPackage\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lcerqueira\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -110,8 +110,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\MigrationPackageStorage\\MigrationPackageStorage.csproj": {
-              "projectPath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\MigrationPackageStorage\\MigrationPackageStorage.csproj"
+            "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\MigrationPackageStorage\\MigrationPackageStorage.csproj": {
+              "projectPath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\MigrationPackageStorage\\MigrationPackageStorage.csproj"
             }
           }
         }

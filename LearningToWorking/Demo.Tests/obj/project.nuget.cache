@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nKDJGEpJZHrOJ+n0dZhEYcCk/3uzUQePRoRy3Ajw62qfmtelxsnerimur1yLtIPvx/pAPLBU+OrWAO5TzT6aFg==",
+  "dgSpecHash": "CpNw7FSNelXa9PodZVEjrGeTHXgUs9vty5FilTkKCXc+uwxSVKXvg7M65pGjHdaG5Wszo+GCaAfQDAhwfEulRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\Demo.Tests\\Demo.Tests.csproj",
+  "projectFilePath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\Demo.Tests\\Demo.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lcerqueira\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\lcerqueira\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

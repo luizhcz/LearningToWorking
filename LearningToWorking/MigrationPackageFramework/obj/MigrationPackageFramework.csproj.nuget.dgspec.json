@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\MigrationPackageFramework\\MigrationPackageFramework.csproj": {}
+    "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\MigrationPackageFramework\\MigrationPackageFramework.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\MigrationPackageFramework\\MigrationPackageFramework.csproj": {
+    "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\MigrationPackageFramework\\MigrationPackageFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\MigrationPackageFramework\\MigrationPackageFramework.csproj",
+        "projectUniqueName": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\MigrationPackageFramework\\MigrationPackageFramework.csproj",
         "projectName": "MigrationPackageFramework",
-        "projectPath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\MigrationPackageFramework\\MigrationPackageFramework.csproj",
+        "projectPath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\MigrationPackageFramework\\MigrationPackageFramework.csproj",
         "packagesPath": "C:\\Users\\lcerqueira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\MigrationPackageFramework\\obj\\",
+        "outputPath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\MigrationPackageFramework\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -28,8 +28,8 @@
         "frameworks": {
           "net461": {
             "projectReferences": {
-              "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\MigrationPackageStorage\\MigrationPackageStorage.csproj": {
-                "projectPath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\MigrationPackageStorage\\MigrationPackageStorage.csproj"
+              "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\MigrationPackageStorage\\MigrationPackageStorage.csproj": {
+                "projectPath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\MigrationPackageStorage\\MigrationPackageStorage.csproj"
               }
             }
           }
@@ -50,14 +50,14 @@
         }
       }
     },
-    "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\MigrationPackageSimulator\\MigrationPackageSimulator.csproj": {
+    "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\MigrationPackageSimulator\\MigrationPackageSimulator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\MigrationPackageSimulator\\MigrationPackageSimulator.csproj",
+        "projectUniqueName": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\MigrationPackageSimulator\\MigrationPackageSimulator.csproj",
         "projectName": "MigrationPackageSimulator",
-        "projectPath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\MigrationPackageSimulator\\MigrationPackageSimulator.csproj",
+        "projectPath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\MigrationPackageSimulator\\MigrationPackageSimulator.csproj",
         "packagesPath": "C:\\Users\\lcerqueira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\MigrationPackageSimulator\\obj\\",
+        "outputPath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\MigrationPackageSimulator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lcerqueira\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -111,14 +111,14 @@
         }
       }
     },
-    "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\MigrationPackageStorage\\MigrationPackageStorage.csproj": {
+    "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\MigrationPackageStorage\\MigrationPackageStorage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\MigrationPackageStorage\\MigrationPackageStorage.csproj",
+        "projectUniqueName": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\MigrationPackageStorage\\MigrationPackageStorage.csproj",
         "projectName": "MigrationPackageStorage",
-        "projectPath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\MigrationPackageStorage\\MigrationPackageStorage.csproj",
+        "projectPath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\MigrationPackageStorage\\MigrationPackageStorage.csproj",
         "packagesPath": "C:\\Users\\lcerqueira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\MigrationPackageStorage\\obj\\",
+        "outputPath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\MigrationPackageStorage\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lcerqueira\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -135,8 +135,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\MigrationPackageSimulator\\MigrationPackageSimulator.csproj": {
-                "projectPath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\MigrationPackageSimulator\\MigrationPackageSimulator.csproj"
+              "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\MigrationPackageSimulator\\MigrationPackageSimulator.csproj": {
+                "projectPath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\MigrationPackageSimulator\\MigrationPackageSimulator.csproj"
               }
             }
           }

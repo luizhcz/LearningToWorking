@@ -86,11 +86,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\WiredBrainCoffee.ConsoleCore\\WiredBrainCoffee.ConsoleCore.csproj",
+      "projectUniqueName": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\WiredBrainCoffee.ConsoleCore\\WiredBrainCoffee.ConsoleCore.csproj",
       "projectName": "WiredBrainCoffee.ConsoleCore",
-      "projectPath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\WiredBrainCoffee.ConsoleCore\\WiredBrainCoffee.ConsoleCore.csproj",
+      "projectPath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\WiredBrainCoffee.ConsoleCore\\WiredBrainCoffee.ConsoleCore.csproj",
       "packagesPath": "C:\\Users\\lcerqueira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\WiredBrainCoffee.ConsoleCore\\obj\\",
+      "outputPath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\WiredBrainCoffee.ConsoleCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lcerqueira\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -107,8 +107,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\WiredBrainCoffee.Simulator.Referecing\\WiredBrainCoffee.Simulator.Referecing.csproj": {
-              "projectPath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\WiredBrainCoffee.Simulator.Referecing\\WiredBrainCoffee.Simulator.Referecing.csproj"
+            "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\WiredBrainCoffee.Simulator.Referecing\\WiredBrainCoffee.Simulator.Referecing.csproj": {
+              "projectPath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\WiredBrainCoffee.Simulator.Referecing\\WiredBrainCoffee.Simulator.Referecing.csproj"
             }
           }
         }

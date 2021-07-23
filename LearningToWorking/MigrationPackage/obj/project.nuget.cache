@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bBOzFSgilFoAor8XnC5zeBwFYe4sXE8fijJpI8SxodXdFCt5gk6iJaNTTQUYTVl247gc/k3Q/rYWu7L4ycU5Lg==",
+  "dgSpecHash": "LzlF7LJpOIypDPeyR+VUc5ju7N8kRKZoCeIYpIUPvIs0XVLVe/R9oFHsT7q6ZJ8TwqAI8ZX92to313qjgW1qag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\MigrationPackage\\MigrationPackage.csproj",
+  "projectFilePath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\MigrationPackage\\MigrationPackage.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lcerqueira\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],

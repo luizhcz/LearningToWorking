@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\UsingMultiplePlataformStorage\\UsingMultiplePlataformStorage.csproj": {}
+    "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\UsingMultiplePlataformStorage\\UsingMultiplePlataformStorage.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\UsingMultiplePlataformStorage\\UsingMultiplePlataformStorage.csproj": {
+    "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\UsingMultiplePlataformStorage\\UsingMultiplePlataformStorage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\UsingMultiplePlataformStorage\\UsingMultiplePlataformStorage.csproj",
+        "projectUniqueName": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\UsingMultiplePlataformStorage\\UsingMultiplePlataformStorage.csproj",
         "projectName": "UsingMultiplePlataformStorage",
-        "projectPath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\UsingMultiplePlataformStorage\\UsingMultiplePlataformStorage.csproj",
+        "projectPath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\UsingMultiplePlataformStorage\\UsingMultiplePlataformStorage.csproj",
         "packagesPath": "C:\\Users\\lcerqueira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\UsingMultiplePlataformStorage\\obj\\",
+        "outputPath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\UsingMultiplePlataformStorage\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2CsBhOxOwHb/lUV0SDvsw8Ob78sKMpjAqg8DdLTXSTh/te0IPV1nLv4UQrbudRy48C8e0sOsV8yhyypP7WNHfA==",
+  "dgSpecHash": "igLNw1EvZeNjL9ckv+8D8yQz2o1Gki7oV+Ac7SVYmhoRM7BM7Pg2djo1eEie45nzOOGuQwjH6NKeWzB2YJzQXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\UsingMultiplePlataformConsole\\UsingMultiplePlataformConsole.csproj",
+  "projectFilePath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\UsingMultiplePlataformConsole\\UsingMultiplePlataformConsole.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lcerqueira\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],

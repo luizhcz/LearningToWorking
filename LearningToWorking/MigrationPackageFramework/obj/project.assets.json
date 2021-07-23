@@ -200,11 +200,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\MigrationPackageFramework\\MigrationPackageFramework.csproj",
+      "projectUniqueName": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\MigrationPackageFramework\\MigrationPackageFramework.csproj",
       "projectName": "MigrationPackageFramework",
-      "projectPath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\MigrationPackageFramework\\MigrationPackageFramework.csproj",
+      "projectPath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\MigrationPackageFramework\\MigrationPackageFramework.csproj",
       "packagesPath": "C:\\Users\\lcerqueira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\MigrationPackageFramework\\obj\\",
+      "outputPath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\MigrationPackageFramework\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -221,8 +221,8 @@
       "frameworks": {
         "net461": {
           "projectReferences": {
-            "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\MigrationPackageStorage\\MigrationPackageStorage.csproj": {
-              "projectPath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\MigrationPackageStorage\\MigrationPackageStorage.csproj"
+            "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\MigrationPackageStorage\\MigrationPackageStorage.csproj": {
+              "projectPath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\MigrationPackageStorage\\MigrationPackageStorage.csproj"
             }
           }
         }

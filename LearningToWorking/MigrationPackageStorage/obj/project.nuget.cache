@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KSTi7Zh+kwSvreSlrDSi/eVJYyg48CeHiwo2jVMRb2o8mKHiKygSIWcIgpEtvMwORffr7eAdwcXA2oF03rY8pg==",
+  "dgSpecHash": "4hLX1dffdPnIcO9+T9sXFPYGWNUaIemZA7wea58oZD8zl3B9AnRAaMYpMRRWhqFrOIttBOb4anXGXVS2VkPGlQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lcerqueira\\source\\repos\\LearningToWorking\\MigrationPackageStorage\\MigrationPackageStorage.csproj",
+  "projectFilePath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\MigrationPackageStorage\\MigrationPackageStorage.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lcerqueira\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\lcerqueira\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

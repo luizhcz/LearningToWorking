@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aryGnjS1jD74UYK7ym/nREfeEGjdvKnIf49b4tSIsUVmFlbeIKf8ZX7oOcmnECWS/TGUdJx+VY6gKjKI9FUTVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\Features\\Features.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lcerqueira\\.nuget\\packages\\fluentvalidation\\10.3.0\\fluentvalidation.10.3.0.nupkg.sha512",
+    "C:\\Users\\lcerqueira\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

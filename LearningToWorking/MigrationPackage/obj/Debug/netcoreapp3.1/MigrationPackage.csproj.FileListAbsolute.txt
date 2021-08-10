@@ -17,3 +17,22 @@ C:\Users\lcerqueira\source\repos\LearningToWorking\MigrationPackage\obj\Debug\ne
 C:\Users\lcerqueira\source\repos\LearningToWorking\MigrationPackage\obj\Debug\netcoreapp3.1\MigrationPackage.dll
 C:\Users\lcerqueira\source\repos\LearningToWorking\MigrationPackage\obj\Debug\netcoreapp3.1\MigrationPackage.pdb
 C:\Users\lcerqueira\source\repos\LearningToWorking\MigrationPackage\obj\Debug\netcoreapp3.1\MigrationPackage.genruntimeconfig.cache
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\MigrationPackage\bin\Debug\netcoreapp3.1\MigrationPackage.exe
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\MigrationPackage\bin\Debug\netcoreapp3.1\MigrationPackage.deps.json
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\MigrationPackage\bin\Debug\netcoreapp3.1\MigrationPackage.runtimeconfig.json
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\MigrationPackage\bin\Debug\netcoreapp3.1\MigrationPackage.runtimeconfig.dev.json
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\MigrationPackage\bin\Debug\netcoreapp3.1\MigrationPackage.dll
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\MigrationPackage\bin\Debug\netcoreapp3.1\MigrationPackage.pdb
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\MigrationPackage\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\MigrationPackage\bin\Debug\netcoreapp3.1\MigrationPackageSimulator.dll
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\MigrationPackage\bin\Debug\netcoreapp3.1\MigrationPackageStorage.dll
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\MigrationPackage\bin\Debug\netcoreapp3.1\MigrationPackageStorage.pdb
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\MigrationPackage\bin\Debug\netcoreapp3.1\MigrationPackageSimulator.pdb
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\MigrationPackage\obj\Debug\netcoreapp3.1\MigrationPackage.csproj.AssemblyReference.cache
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\MigrationPackage\obj\Debug\netcoreapp3.1\MigrationPackage.AssemblyInfoInputs.cache
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\MigrationPackage\obj\Debug\netcoreapp3.1\MigrationPackage.AssemblyInfo.cs
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\MigrationPackage\obj\Debug\netcoreapp3.1\MigrationPackage.csproj.CoreCompileInputs.cache
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\MigrationPackage\obj\Debug\netcoreapp3.1\MigrationPackage.csproj.CopyComplete
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\MigrationPackage\obj\Debug\netcoreapp3.1\MigrationPackage.dll
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\MigrationPackage\obj\Debug\netcoreapp3.1\MigrationPackage.pdb
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\MigrationPackage\obj\Debug\netcoreapp3.1\MigrationPackage.genruntimeconfig.cache

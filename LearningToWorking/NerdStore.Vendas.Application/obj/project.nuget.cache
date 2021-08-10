@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zkd58muUnLYDanqJhT/kKfxrhZh0EW9d2kRrwVX/XtHRUj7ijBbATbTNKeKA7mvU14YAS1q1HXqOZs3A+L0r+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lcerqueira\\OneDrive - Braspag Tecnologia em Pagamento Ltda\\Desktop\\Github\\LearningToWorking\\LearningToWorking\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lcerqueira\\.nuget\\packages\\fluentvalidation\\10.3.0\\fluentvalidation.10.3.0.nupkg.sha512",
+    "C:\\Users\\lcerqueira\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -25,7 +25,7 @@ namespace Features.Tests
         }
 
         [Fact(DisplayName = "Adicionar Cliente com Sucesso")]
-        [Trait("Categoria", "Cliente Service Fluent Assertion Tests")]
+        [Trait("Category", "Cliente Service Fluent Assertion Tests")]
         public void ClienteService_Adicionar_DeveExecutarComSucesso()
         {
             // Arrange
@@ -45,7 +45,7 @@ namespace Features.Tests
         }
 
         [Fact(DisplayName = "Adicionar Cliente com Falha")]
-        [Trait("Categoria", "Cliente Service Fluent Assertion Tests")]
+        [Trait("Category", "Cliente Service Fluent Assertion Tests")]
         public void ClienteService_Adicionar_DeveFalharDevidoClienteInvalido()
         {
             // Arrange
@@ -66,7 +66,7 @@ namespace Features.Tests
         }
 
         [Fact(DisplayName = "Obter Clientes Ativos")]
-        [Trait("Categoria", "Cliente Service Fluent Assertion Tests")]
+        [Trait("Category", "Cliente Service Fluent Assertion Tests")]
         public void ClienteService_ObterTodosAtivos_DeveRetornarApenasClientesAtivos()
         {
             // Arrange

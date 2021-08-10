@@ -13,3 +13,4 @@ C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Gith
 C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\Features\obj\Debug\netcoreapp3.1\Features.dll
 C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\Features\obj\Debug\netcoreapp3.1\Features.pdb
 C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\Features\obj\Debug\netcoreapp3.1\Features.genruntimeconfig.cache
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\Features\obj\Debug\netcoreapp3.1\Features.csproj.AssemblyReference.cache

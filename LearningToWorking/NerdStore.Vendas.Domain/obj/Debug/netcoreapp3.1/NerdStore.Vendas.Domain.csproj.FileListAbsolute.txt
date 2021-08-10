@@ -1,0 +1,12 @@
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.csproj.AssemblyReference.cache
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.AssemblyInfoInputs.cache
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.AssemblyInfo.cs
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\NerdStore.Vendas.Domain\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.deps.json
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\NerdStore.Vendas.Domain\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.dll
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\NerdStore.Vendas.Domain\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.pdb
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.dll
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.pdb
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\NerdStore.Vendas.Domain\bin\Debug\netcoreapp3.1\NerdStore.Core.dll
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\NerdStore.Vendas.Domain\bin\Debug\netcoreapp3.1\NerdStore.Core.pdb
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.csproj.CopyComplete

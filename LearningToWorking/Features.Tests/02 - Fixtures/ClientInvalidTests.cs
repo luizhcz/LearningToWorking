@@ -16,7 +16,7 @@ namespace Features.Tests
         }
 
         [Fact(DisplayName = "Novo Cliente Inválido")]
-        [Trait("Categoria", "Cliente Fixture Testes")]
+        [Trait("Category", "Cliente Fixture Testes")]
         public void Cliente_NovoCliente_DeveEstarInvalido()
         {
             // Arrange

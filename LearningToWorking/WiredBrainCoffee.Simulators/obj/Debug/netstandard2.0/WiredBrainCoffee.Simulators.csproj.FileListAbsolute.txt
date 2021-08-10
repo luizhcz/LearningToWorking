@@ -1,0 +1,9 @@
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\WiredBrainCoffee.Simulators\bin\Debug\netstandard2.0\WiredBrainCoffee.Simulators.deps.json
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\WiredBrainCoffee.Simulators\bin\Debug\netstandard2.0\WiredBrainCoffee.Simulators.dll
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\WiredBrainCoffee.Simulators\bin\Debug\netstandard2.0\WiredBrainCoffee.Simulators.pdb
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\WiredBrainCoffee.Simulators\obj\Debug\netstandard2.0\WiredBrainCoffee.Simulators.csproj.AssemblyReference.cache
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\WiredBrainCoffee.Simulators\obj\Debug\netstandard2.0\WiredBrainCoffee.Simulators.AssemblyInfoInputs.cache
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\WiredBrainCoffee.Simulators\obj\Debug\netstandard2.0\WiredBrainCoffee.Simulators.AssemblyInfo.cs
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\WiredBrainCoffee.Simulators\obj\Debug\netstandard2.0\WiredBrainCoffee.Simulators.csproj.CoreCompileInputs.cache
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\WiredBrainCoffee.Simulators\obj\Debug\netstandard2.0\WiredBrainCoffee.Simulators.dll
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\WiredBrainCoffee.Simulators\obj\Debug\netstandard2.0\WiredBrainCoffee.Simulators.pdb

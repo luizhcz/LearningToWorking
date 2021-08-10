@@ -8,3 +8,13 @@ C:\Users\lcerqueira\source\repos\LearningToWorking\WiredBrainCoffee.Storage.Refe
 C:\Users\lcerqueira\source\repos\LearningToWorking\WiredBrainCoffee.Storage.Referencing\obj\Debug\WiredBrainCoffee.Storage.Referencing.csproj.CopyComplete
 C:\Users\lcerqueira\source\repos\LearningToWorking\WiredBrainCoffee.Storage.Referencing\obj\Debug\WiredBrainCoffee.Storage.Referencing.dll
 C:\Users\lcerqueira\source\repos\LearningToWorking\WiredBrainCoffee.Storage.Referencing\obj\Debug\WiredBrainCoffee.Storage.Referencing.pdb
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\WiredBrainCoffee.Storage.Referencing\bin\Debug\WiredBrainCoffee.Storage.Referencing.dll.config
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\WiredBrainCoffee.Storage.Referencing\bin\Debug\WiredBrainCoffee.Storage.Referencing.dll
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\WiredBrainCoffee.Storage.Referencing\bin\Debug\WiredBrainCoffee.Storage.Referencing.pdb
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\WiredBrainCoffee.Storage.Referencing\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\WiredBrainCoffee.Storage.Referencing\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\WiredBrainCoffee.Storage.Referencing\obj\Debug\WiredBrainCoffee.Storage.Referencing.csproj.AssemblyReference.cache
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\WiredBrainCoffee.Storage.Referencing\obj\Debug\WiredBrainCoffee.Storage.Referencing.csproj.CoreCompileInputs.cache
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\WiredBrainCoffee.Storage.Referencing\obj\Debug\WiredBrainCoffee.Storage.Referencing.csproj.CopyComplete
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\WiredBrainCoffee.Storage.Referencing\obj\Debug\WiredBrainCoffee.Storage.Referencing.dll
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\WiredBrainCoffee.Storage.Referencing\obj\Debug\WiredBrainCoffee.Storage.Referencing.pdb

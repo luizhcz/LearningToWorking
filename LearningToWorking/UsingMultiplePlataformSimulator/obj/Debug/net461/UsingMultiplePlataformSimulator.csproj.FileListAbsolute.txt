@@ -10,3 +10,15 @@ C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformSimulat
 C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformSimulator\obj\Debug\net461\UsingMultiplePlataformSimulator.csproj.CopyComplete
 C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformSimulator\obj\Debug\net461\UsingMultiplePlataformSimulator.dll
 C:\Users\lcerqueira\source\repos\LearningToWorking\UsingMultiplePlataformSimulator\obj\Debug\net461\UsingMultiplePlataformSimulator.pdb
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\UsingMultiplePlataformSimulator\bin\Debug\net461\UsingMultiplePlataformSimulator.dll
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\UsingMultiplePlataformSimulator\bin\Debug\net461\UsingMultiplePlataformSimulator.pdb
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\UsingMultiplePlataformSimulator\bin\Debug\net461\Newtonsoft.Json.dll
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\UsingMultiplePlataformSimulator\bin\Debug\net461\UsingMultiplePlataformStorage.dll
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\UsingMultiplePlataformSimulator\bin\Debug\net461\UsingMultiplePlataformStorage.pdb
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\UsingMultiplePlataformSimulator\obj\Debug\net461\UsingMultiplePlataformSimulator.csproj.AssemblyReference.cache
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\UsingMultiplePlataformSimulator\obj\Debug\net461\UsingMultiplePlataformSimulator.AssemblyInfoInputs.cache
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\UsingMultiplePlataformSimulator\obj\Debug\net461\UsingMultiplePlataformSimulator.AssemblyInfo.cs
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\UsingMultiplePlataformSimulator\obj\Debug\net461\UsingMultiplePlataformSimulator.csproj.CoreCompileInputs.cache
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\UsingMultiplePlataformSimulator\obj\Debug\net461\UsingMultiplePlataformSimulator.csproj.CopyComplete
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\UsingMultiplePlataformSimulator\obj\Debug\net461\UsingMultiplePlataformSimulator.dll
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\UsingMultiplePlataformSimulator\obj\Debug\net461\UsingMultiplePlataformSimulator.pdb

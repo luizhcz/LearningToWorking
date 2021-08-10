@@ -10,3 +10,15 @@ C:\Users\lcerqueira\source\repos\LearningToWorking\MigrationPackageStorage\obj\D
 C:\Users\lcerqueira\source\repos\LearningToWorking\MigrationPackageStorage\obj\Debug\netstandard2.0\MigrationPackageStorage.csproj.CopyComplete
 C:\Users\lcerqueira\source\repos\LearningToWorking\MigrationPackageStorage\obj\Debug\netstandard2.0\MigrationPackageStorage.dll
 C:\Users\lcerqueira\source\repos\LearningToWorking\MigrationPackageStorage\obj\Debug\netstandard2.0\MigrationPackageStorage.pdb
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\MigrationPackageStorage\bin\Debug\netstandard2.0\MigrationPackageStorage.deps.json
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\MigrationPackageStorage\bin\Debug\netstandard2.0\MigrationPackageStorage.dll
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\MigrationPackageStorage\bin\Debug\netstandard2.0\MigrationPackageStorage.pdb
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\MigrationPackageStorage\bin\Debug\netstandard2.0\MigrationPackageSimulator.dll
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\MigrationPackageStorage\bin\Debug\netstandard2.0\MigrationPackageSimulator.pdb
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\MigrationPackageStorage\obj\Debug\netstandard2.0\MigrationPackageStorage.csproj.AssemblyReference.cache
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\MigrationPackageStorage\obj\Debug\netstandard2.0\MigrationPackageStorage.AssemblyInfoInputs.cache
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\MigrationPackageStorage\obj\Debug\netstandard2.0\MigrationPackageStorage.AssemblyInfo.cs
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\MigrationPackageStorage\obj\Debug\netstandard2.0\MigrationPackageStorage.csproj.CoreCompileInputs.cache
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\MigrationPackageStorage\obj\Debug\netstandard2.0\MigrationPackageStorage.csproj.CopyComplete
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\MigrationPackageStorage\obj\Debug\netstandard2.0\MigrationPackageStorage.dll
+C:\Users\lcerqueira\OneDrive - Braspag Tecnologia em Pagamento Ltda\Desktop\Github\LearningToWorking\LearningToWorking\MigrationPackageStorage\obj\Debug\netstandard2.0\MigrationPackageStorage.pdb
